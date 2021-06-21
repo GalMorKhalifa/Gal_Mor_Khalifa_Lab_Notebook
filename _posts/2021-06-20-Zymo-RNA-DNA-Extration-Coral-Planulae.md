@@ -50,7 +50,7 @@ Adapted From [E. Chille’s Protocol](https://echille.github.io/E.-Chille-Open-L
 19.	Repeat steps 18-20 for a final elution volume of 100 µl. If concentrations are low, elute once in 50 uL total volume.
 20.	Label tubes, store at 4 °C if quantifying the same day or the next, if waiting longer store in -20 °C
 
-###RNA Extraction
+### RNA Extraction
 Can do concurrently with DNA Extraction after DNA Extraction Step 7
 1.	Add equal volume (700 µl) 100% EtOH to the 1.5mL tubes labelled for RNA containing the original yellow column flow through
 2.	Vortex and spin down to mix
