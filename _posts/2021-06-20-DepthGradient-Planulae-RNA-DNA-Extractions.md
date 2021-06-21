@@ -31,3 +31,16 @@ Sample List:
 | 17           | DeP_d     | 7/05/2021        | Planulae       | 20 planulae     | 700 uL shield  | 
 | 18           | DeP_e     | 7/05/2021        | Planulae       | 20 planulae     | 700 uL shield  |
 
+
+###Results - Quality Testing
+After kit extraction of RNA and DNA, sample quality was tested on the NanoDrop (RNA and DNA) and TapeStation (RNA only).
+
+![Nanodrop]({{site.baseurl}}/images/RNADNA_quality_June2021.jpg "Nanodrop")
+
+Tape station data:
+![TapeStation1]({{site.baseurl}}/images/TapeStation_2021-06-15(1).jpg "TapeStation1")
+![TapeStation2]({{site.baseurl}}/images/TapeStation_2021-06-15(2).jpg "TapeStation2")
+![TapeStation3]({{site.baseurl}}/images/TapeStation_2021-06-15(3).jpg "TapeStation3")
+
+Eluted RNA and DNA were aliquoted to 2 x 20 uL and 1 x 10 uL and stored at -80 degrees
+
