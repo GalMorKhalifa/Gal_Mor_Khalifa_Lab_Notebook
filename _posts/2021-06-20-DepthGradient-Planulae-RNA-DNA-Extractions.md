@@ -6,7 +6,7 @@ category: Extraction
 tags: [ RNA, DNA, Stylophora, shallow, mesophotic, Zymo ]
 ---
 
-Experiment conducted in Eilat in 2021 as part of NSF BSF grant (Award Number: 1937770). This post details the RNA DNA quality testing following extractions from coral tissue with [this protocol]()
+Experiment conducted in Eilat in 2021 as part of NSF BSF grant (Award Number: 1937770). This post details the RNA DNA quality testing following extractions from coral tissue with [this protocol](https://jessicabellworthy.github.io/JessicaBellworthy_Notebook/Zymo-RNA-DNA-Extration-Coral-Planulae/)
 
 Sample List:
 
@@ -32,7 +32,7 @@ Sample List:
 | 18           | DeP_e     | 7/05/2021        | Planulae       | 20 planulae     | 700 uL shield  |
 
 
-###Results - Quality Testing
+### Results - Quality Testing
 After kit extraction of RNA and DNA, sample quality was tested on the NanoDrop (RNA and DNA) and TapeStation (RNA only).
 
 ![Nanodrop]({{site.baseurl}}/images/RNADNA_quality_June2021.jpg "Nanodrop")
