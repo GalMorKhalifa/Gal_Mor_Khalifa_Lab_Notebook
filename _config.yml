@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jessica Bellworthy's Open Lab Notebook
+name: Gal Mor Khalifa Open Lab Notebook
 
 # Short bio or description (displayed in the header)
 description: Post Doctoral Fellow | Mass Lab | Haifa University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "https://avatars.githubusercontent.com/jessicabellworthy"
-
+avatar: https://avatars.githubusercontent.com/u/98453467?v=4
 #
 # Flags below are optional
 #
@@ -18,10 +17,10 @@ avatar: "https://avatars.githubusercontent.com/jessicabellworthy"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jhbellworthy@gmail.com
+  email: galmor26@gmail.com
   facebook:
   flickr:
-  github: /JessicaBellworthy
+  github: /GalMorKhalifa
   instagram:
   linkedin:
   pinterest:
@@ -41,15 +40,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://jessicabellworthy.gihub.io"
+url: "https://GalMorKhalifa.gihub.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/JessicaBellworthy_Notebook"
-
-#
+baseurl: "/Gal_Mor_Khalifa_Lab_Notebook"
 # !! You don't need to change any of the configuration flags below !!
 #
 
